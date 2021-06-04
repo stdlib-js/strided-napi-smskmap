@@ -36,8 +36,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/strided/base/smskmap": "^0.0.x",
-    "@stdlib/utils/library-manifest": "^0.0.x"
+    "@stdlib/strided-base-smskmap": "^0.0.x",
+    "@stdlib/utils-library-manifest": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/array-float32": "^0.0.x",

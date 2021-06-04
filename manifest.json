@@ -33,7 +33,7 @@
 			"libraries": [],
 			"libpath": [],
 			"dependencies": [
-				"@stdlib/strided/base/smskmap"
+				"@stdlib/strided-base-smskmap"
 			]
 		}
 	]
