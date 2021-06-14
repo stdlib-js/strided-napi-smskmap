@@ -26,7 +26,11 @@
     "test": "./test"
   },
   "types": "./docs/types",
-  "scripts": {},
+  "scripts": {
+    "test": "make test",
+    "test-cov": "make test-cov",
+    "examples": "make examples"
+  },
   "homepage": "https://github.com/stdlib-js/stdlib",
   "repository": {
     "type": "git",
@@ -46,7 +50,9 @@
     "@stdlib/bench": "^0.0.x",
     "@stdlib/math-base-assert-is-nanf": "^0.0.x",
     "@stdlib/utils-try-require": "^0.0.x",
-    "tape": "git+https://github.com/kgryte/tape.git#fix/globby"
+    "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
+    "istanbul": "^0.4.1",
+    "tap-spec": "5.x.x"
   },
   "engines": {
     "node": ">=0.10.0",

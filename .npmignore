@@ -18,6 +18,9 @@
 
 # Files #
 #########
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+CONTRIBUTORS
 TODO.md
 ROADMAP.md
 .postinstall.json
@@ -37,10 +40,6 @@ workshops/
 # Ignore test directories, except for testing dependency installation:
 **/test/
 !/deps/test/
-
-# Ignore top-level tools directory, except for scripts:
-/tools/*
-!/tools/scripts/
 
 # Only top-level directories:
 /etc/

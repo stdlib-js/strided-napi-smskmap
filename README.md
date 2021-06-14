@@ -20,6 +20,8 @@ limitations under the License.
 
 # smskmap
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > C API for registering an N-API module exporting a strided array interface for applying a unary callback accepting and returning single-precision floating-point numbers to each element in a single-precision floating-point strided input array according to a corresponding element in a strided mask array and assigning results to elements in a single-precision floating-point strided output array.
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
@@ -260,6 +262,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/strided-napi-smskmap.svg
+[npm-url]: https://npmjs.org/package/@stdlib/strided-napi-smskmap
+
+[test-image]: https://github.com/stdlib-js/strided-napi-smskmap/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/strided-napi-smskmap/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/strided-napi-smskmap/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/strided-napi-smskmap?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/strided-napi-smskmap
+[dependencies-url]: https://david-dm.org/stdlib-js/strided-napi-smskmap/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
