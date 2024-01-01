@@ -21,7 +21,7 @@
 // MODULES //
 
 var resolve = require( 'path' ).resolve;
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var isnanf = require( '@stdlib/math-base-assert-is-nanf' );
 var Float32Array = require( '@stdlib/array-float32' );
 var Uint8Array = require( '@stdlib/array-uint8' );
