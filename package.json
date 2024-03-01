@@ -45,15 +45,15 @@
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/array-float32": "^0.2.0",
-    "@stdlib/array-uint8": "^0.2.0",
-    "@stdlib/assert-is-browser": "^0.2.0",
-    "@stdlib/math-base-assert-is-nanf": "^0.2.0",
+    "@stdlib/array-float32": "^0.2.1",
+    "@stdlib/array-uint8": "^0.2.1",
+    "@stdlib/assert-is-browser": "^0.2.1",
+    "@stdlib/math-base-assert-is-nanf": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
