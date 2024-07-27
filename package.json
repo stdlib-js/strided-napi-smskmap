@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-napi-smskmap",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "C API for registering a Node-API module exporting a strided array interface for applying a unary callback  to a single-precision floating-point strided input array according to a strided mask array and assigning results to a single-precision floating-point strided output array.",
   "license": "Apache-2.0",
   "author": {
@@ -49,7 +49,7 @@
     "@stdlib/array-uint8": "^0.2.1",
     "@stdlib/assert-is-browser": "^0.2.1",
     "@stdlib/math-base-assert-is-nanf": "^0.2.1",
-    "@stdlib/utils-try-require": "^0.2.1",
+    "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
